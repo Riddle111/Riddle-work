@@ -1,2 +1,2 @@
 # Riddle-work
-这是riddle的。
+这是重复的riddlework。
